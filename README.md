@@ -83,8 +83,6 @@ Plant_Disease_Detector/
 ## Contributing
 We welcome contributions to enhance this project. Please fork the repository and submit a pull request with detailed descriptions of your changes.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Authors
 - **Idhant Joshi**  
