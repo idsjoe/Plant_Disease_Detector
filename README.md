@@ -92,6 +92,3 @@ We welcome contributions to enhance this project. Please fork the repository and
 ## References
 1. [PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
 2. [PlantVillage Website](https://plantvillage.psu.edu/)
-
-## GitHub Repository
-The full source code, documentation, and setup instructions can be found here: [Plant Disease Detector Repository](https://github.com/<your-username>/Plant_Disease_Detector).
