@@ -1,4 +1,3 @@
-# Plant_Disease_Detector
 # Plant Disease Detector
 
 This repository hosts a webpage-based application that allows users to upload images of crop leaves and identify up to 38 different plant diseases. The project utilizes the PlantVillage dataset, MobileNetV2 for feature extraction, and Support Vector Machine (SVM) for classification.
