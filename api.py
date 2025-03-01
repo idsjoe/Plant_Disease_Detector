@@ -38,7 +38,7 @@ async def predict_image(file: UploadFile = File(...)):
         # Returns an error message in case of an exception to the frontend
         return {"error": str(e)}
 
-# Runs the server when the script is executed directly
+# Runs the server when the script is executed directly via uvicorn
 if __name__ == "__main__":
     uvicorn.run(app, host="127.0.0.1", port=8000) 
     #Feel free to change the port here, and also in scrip.js 
